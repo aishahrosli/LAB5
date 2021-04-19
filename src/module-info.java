@@ -1,2 +1,2 @@
 module lab5 {
-}
+} 
